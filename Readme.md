@@ -35,20 +35,10 @@ Based on the violin plot we could summarize on Health & Fitness APPS have the hi
 #### Prices based on Apps Genres
 Using Boxplot I explore the distribution in pricing for four Apps (Games,Education,Health & Fitness,Entertainment) for applications that charges  less than 10$ for downloading .The variable with the highest distribution is games.Moreover,boxplot indicate as that games have the highest price while Enterainment apps charge the less and the average prices of (Games,Education,Health & Fitness) have quit similar value.
 
-
-
 #### Multiple Correlation.
 Finally, I order to compare the correlation between the variables (price', 'user_rating', 'sup_devices.num','size_bytes') I created a Heatmap . An unexpected finding is that there is a negative correlation between the price and the number of supported devices. That means that an App which could be supported by different types of devices is not so expensive than other which is supported by less.While, Price and user_rating have positive correlation.
 
 ### Summarizing
 To conclude, we could say that the success of an application is based on different kind factors. User have high demands. Games applications are the most popular but also the most competitive genre. App creators must be very careful about a final decision taking into considerations a variety of factors.
 
-
-```python
-
-```
-
-
-```python
-
-```
+[Click here](https://nbviewer.jupyter.org/github/AngelosGk/Data-Visualization/blob/master/exploration_template%20.ipynb) to find Data Visualization project.
